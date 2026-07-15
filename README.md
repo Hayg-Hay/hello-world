@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [1mdiff --git a/HelloWorld.svg.webp b/HelloWorld.svg.webp[m
 [1mnew file mode 100644[m
 [1mindex 0000000..abead15[m
@@ -384,3 +385,10 @@ Binary files /dev/null and b/hello-world-tutoGit.avif differ
 [32m+[m[32m TAB ...................................... Complete filename & cycle.[m
 [32m+[m[32m SHIFT-TAB ...................... ESC-TAB   Complete filename & reverse cycle.[m
 [32m+[m[32m ctrl-L ................................... Complete filename, list all.[m
+=======
+# hello-world
+Hello World respository for Git tutorial
+
+CHRist is King.
+You lifted my life from the pit, my Lord my God.
+>>>>>>> 4ef16f832b96fb30728d04667f745733b757053f
