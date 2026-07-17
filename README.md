@@ -9,3 +9,5 @@ This repository contains:
 - hello-world-tutoGit.avif
 
 Created while learning Git and GitHub.
+
+CHRist is King
